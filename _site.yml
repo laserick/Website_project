@@ -1,7 +1,7 @@
 name: "Website_project"
-title: "Firsr website in R"
+title: "First Website in R"
 description: |
-  Firsr website in R
+  First Website in R
 output_dir: "docs"
 navbar:
   right:
